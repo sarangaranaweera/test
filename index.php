@@ -1,3 +1,3 @@
 <?php
 
-Welcome!
+echo "<h1>Learning Champ</h1>";
